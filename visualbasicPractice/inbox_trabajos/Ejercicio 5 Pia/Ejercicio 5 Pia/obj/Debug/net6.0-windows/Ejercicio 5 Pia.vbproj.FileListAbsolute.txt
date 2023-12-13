@@ -1,0 +1,17 @@
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\bin\Debug\net6.0-windows\Ejercicio 5 Pia.exe
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\bin\Debug\net6.0-windows\Ejercicio 5 Pia.deps.json
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\bin\Debug\net6.0-windows\Ejercicio 5 Pia.runtimeconfig.json
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\bin\Debug\net6.0-windows\Ejercicio 5 Pia.dll
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\bin\Debug\net6.0-windows\Ejercicio 5 Pia.pdb
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\obj\Debug\net6.0-windows\Ejercicio 5 Pia.vbproj.AssemblyReference.cache
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\obj\Debug\net6.0-windows\Ejercicio_5_Pia.Form1.resources
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\obj\Debug\net6.0-windows\Ejercicio 5 Pia.vbproj.GenerateResource.cache
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\obj\Debug\net6.0-windows\Ejercicio 5 Pia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\obj\Debug\net6.0-windows\Ejercicio 5 Pia.AssemblyInfoInputs.cache
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\obj\Debug\net6.0-windows\Ejercicio 5 Pia.AssemblyInfo.vb
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\obj\Debug\net6.0-windows\Ejercicio 5 Pia.vbproj.CoreCompileInputs.cache
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\obj\Debug\net6.0-windows\Ejercicio 5 Pia.dll
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\obj\Debug\net6.0-windows\refint\Ejercicio 5 Pia.dll
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\obj\Debug\net6.0-windows\Ejercicio 5 Pia.pdb
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\obj\Debug\net6.0-windows\Ejercicio 5 Pia.genruntimeconfig.cache
+C:\Users\omara\OneDrive\Escritorio\Evidencia 5 prog visual\Ejercicio 5 Pia\Ejercicio 5 Pia\obj\Debug\net6.0-windows\ref\Ejercicio 5 Pia.dll

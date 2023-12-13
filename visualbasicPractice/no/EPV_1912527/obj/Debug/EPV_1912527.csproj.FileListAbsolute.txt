@@ -1,0 +1,11 @@
+C:\Users\Caprindows\Documents\MEGAsync\Caprindows\PROGVIS_1912527\EPV_1912527\bin\Debug\EPV_1912527.exe.config
+C:\Users\Caprindows\Documents\MEGAsync\Caprindows\PROGVIS_1912527\EPV_1912527\bin\Debug\EPV_1912527.exe
+C:\Users\Caprindows\Documents\MEGAsync\Caprindows\PROGVIS_1912527\EPV_1912527\bin\Debug\EPV_1912527.pdb
+C:\Users\Caprindows\Documents\MEGAsync\Caprindows\PROGVIS_1912527\EPV_1912527\obj\Debug\EPV_1912527.csproj.AssemblyReference.cache
+C:\Users\Caprindows\Documents\MEGAsync\Caprindows\PROGVIS_1912527\EPV_1912527\obj\Debug\EPV_1912527.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caprindows\Documents\MEGAsync\Caprindows\PROGVIS_1912527\EPV_1912527\obj\Debug\EPV_1912527.Form1.resources
+C:\Users\Caprindows\Documents\MEGAsync\Caprindows\PROGVIS_1912527\EPV_1912527\obj\Debug\EPV_1912527.Properties.Resources.resources
+C:\Users\Caprindows\Documents\MEGAsync\Caprindows\PROGVIS_1912527\EPV_1912527\obj\Debug\EPV_1912527.csproj.GenerateResource.cache
+C:\Users\Caprindows\Documents\MEGAsync\Caprindows\PROGVIS_1912527\EPV_1912527\obj\Debug\EPV_1912527.csproj.CoreCompileInputs.cache
+C:\Users\Caprindows\Documents\MEGAsync\Caprindows\PROGVIS_1912527\EPV_1912527\obj\Debug\EPV_1912527.exe
+C:\Users\Caprindows\Documents\MEGAsync\Caprindows\PROGVIS_1912527\EPV_1912527\obj\Debug\EPV_1912527.pdb
